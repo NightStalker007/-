@@ -1,3 +1,5 @@
+/*Author:HUST-CSXJ1901-骆瑞霖*/
+
 #include "stdio.h"
 #include "stdlib.h"
 #include "string.h"
